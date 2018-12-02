@@ -12,6 +12,7 @@ chromedriver‚à‚ ‚èŠÂ‹«‚É‚æ‚Á‚Ä‚Í“®‚©‚¹‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
 
 
 
+
 Basic 2048 codes and AI referenced the following URL and comment code.
 https://qiita.com/masa_ramen/items/b497e547a1298a905a2e
 
