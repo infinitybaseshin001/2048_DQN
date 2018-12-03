@@ -10,6 +10,7 @@ seleniumの使用に関して、
 chromedriverもあり環境によっては動かせるかもしれません。
 実作業としてのコード記述は作業.txtに記述しています。
 
+※動作させるにはseleniumの他tensorflow/kerasもpip installしてください。
 
 
 
@@ -24,3 +25,6 @@ Regarding the use of selenium,
 It moves with geckodriver as sample code,
 There is a chromedriver, and it may be able to move depending on the environment.
 Code description as actual work is described in work .txt.
+
+* Please also pip install selenium and other tensorflow / keras to make it operate.
+
